@@ -1,0 +1,30 @@
+http://datascience.esy.es/scrapping-mercadolibre-python/
+
+la idea es bajar 9000 publicaciones de propiedades de mercado libre para eso
+se puede aplicar este comando 16 veces más cambiando el offset
+curl "https://api.mercadolibre.com/sites/MLA/search?category=MLA1473&offset=50" -o response2.json
+
+Como los datos deben cumplir la misma estructura es lo mismo empezar con los primeros 50
+
+
+1) Ver cuales pararametros puede ser útiles para construir un modelo de predicción de precios
+https://www.kaggle.com/code/jboysen/quick-tutorial-flatten-nested-json-in-pandas/notebook
+http://jsonviewer.stack.hu/
+https://codebeautify.org/jsonviewer/c6a219
+2) Extraerlos del json y pasarlos a una base de datos tipo SQL
+https://sqlizer.io/?utm_source=json2sql_blog 
+https://blog.jcharistech.com/2020/01/08/how-to-convert-json-to-sql-format-in-python/
+https://www.youtube.com/watch?v=lI3WiAmDvTw&t=2s
+
+JSON : datos semiestructurados
+
+3) EDA
+A veces ya alcanzana con un gráfico para contestar la pregunta: 
+un mapa de calor con las categorias de precios en CABA ya de te puede ayudar.
+A este nivel de analisis ya puedo tener una forma para evaluar la limpieza de los datos (GIGO)
+Puede ser la primera parte del modelo, clasificarlo en categorias de calidad urbana.
+Despues en cada categoria habrá unos parametros de regresión distinto.
+
+"Keep It Simple Stupid"
+EDA>Wranglin>EDA>Wranglin>iteración
+4) Modelo predictivo

@@ -1,0 +1,460 @@
+,id,value_id,value_name,attribute_group_id,source,name,value_struct,values,attribute_group_name,value_struct.number,value_struct.unit
+0,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+1,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+2,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'name': 'No', 'struct': None, 'source': 4709975701260268, 'id': '242084'}]",Comodidades y amenities,,
+3,BEDROOMS,,1,FIND,4709975701260268,Dormitorios,,"[{'source': 4709975701260268, 'id': None, 'name': '1', 'struct': None}]",Ficha técnica,,
+4,COVERED_AREA,,39 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '39 m²', 'struct': {'number': 39, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,39.0,m²
+5,FULL_BATHROOMS,,1,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+6,ROOMS,,2,FIND,4709975701260268,Ambientes,,"[{'source': 4709975701260268, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+7,TOTAL_AREA,,42 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '42 m²', 'struct': {'number': 42, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,42.0,m²
+8,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+9,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+10,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'source': 1, 'id': '2230581', 'name': 'Usado', 'struct': None}]",,,
+11,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,6316276763983939,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 6316276763983939}]",Comodidades y amenities,,
+12,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+13,COVERED_AREA,,32 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '32 m²', 'struct': {'unit': 'm²', 'number': 32}, 'source': 6316276763983939}]",Ficha técnica,32.0,m²
+14,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'struct': None, 'source': 6316276763983939, 'id': None, 'name': '1'}]",Ficha técnica,,
+15,ROOMS,,2,FIND,6316276763983939,Ambientes,,"[{'name': '2', 'struct': None, 'source': 6316276763983939, 'id': None}]",Ficha técnica,,
+16,TOTAL_AREA,,34 m²,FIND,6316276763983939,Superficie total,,"[{'name': '34 m²', 'struct': {'number': 34, 'unit': 'm²'}, 'source': 6316276763983939, 'id': None}]",Ficha técnica,34.0,m²
+17,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+18,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+19,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+20,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+21,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+22,BEDROOMS,,1,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+23,COVERED_AREA,,36 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '36 m²', 'struct': {'number': 36, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,36.0,m²
+24,FULL_BATHROOMS,,1,FIND,4709975701260268,Baños,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '1'}]",Ficha técnica,,
+25,ROOMS,,1,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+26,TOTAL_AREA,,38 m²,FIND,4709975701260268,Superficie total,,"[{'struct': {'number': 38, 'unit': 'm²'}, 'source': 4709975701260268, 'id': None, 'name': '38 m²'}]",Ficha técnica,38.0,m²
+27,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+28,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+29,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+30,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+31,COVERED_AREA,,45 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '45 m²', 'struct': {'unit': 'm²', 'number': 45}, 'source': 6316276763983939}]",Ficha técnica,45.0,m²
+32,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+33,ROOMS,,2,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+34,TOTAL_AREA,,50 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '50 m²', 'struct': {'unit': 'm²', 'number': 50}, 'source': 6316276763983939}]",Ficha técnica,50.0,m²
+35,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+36,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+37,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,6316276763983939,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 6316276763983939}]",Comodidades y amenities,,
+38,BEDROOMS,,2,FIND,6316276763983939,Dormitorios,,"[{'source': 6316276763983939, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+39,COVERED_AREA,,56 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '56 m²', 'struct': {'number': 56, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,56.0,m²
+40,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'struct': None, 'source': 6316276763983939, 'id': None, 'name': '1'}]",Ficha técnica,,
+41,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+42,TOTAL_AREA,,82 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '82 m²', 'struct': {'number': 82, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,82.0,m²
+43,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+44,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+45,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'struct': None, 'source': 1, 'id': '2230581', 'name': 'Usado'}]",Otros,,
+46,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,7632835793739921,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 7632835793739921}]",Características adicionales,,
+47,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,7632835793739921,Aire acondicionado,,"[{'struct': None, 'source': 7632835793739921, 'id': '242084', 'name': 'No'}]",Comodidades y amenities,,
+48,BEDROOMS,,3,FIND,7632835793739921,Dormitorios,,"[{'id': None, 'name': '3', 'struct': None, 'source': 7632835793739921}]",Ficha técnica,,
+49,COVERED_AREA,,117 m²,FIND,7632835793739921,Superficie cubierta,,"[{'source': 7632835793739921, 'id': None, 'name': '117 m²', 'struct': {'number': 117, 'unit': 'm²'}}]",Ficha técnica,117.0,m²
+50,FULL_BATHROOMS,,2,FIND,7632835793739921,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 7632835793739921}]",Ficha técnica,,
+51,ROOMS,,4,FIND,7632835793739921,Ambientes,,"[{'id': None, 'name': '4', 'struct': None, 'source': 7632835793739921}]",Ficha técnica,,
+52,TOTAL_AREA,,117 m²,FIND,7632835793739921,Superficie total,,"[{'source': 7632835793739921, 'id': None, 'name': '117 m²', 'struct': {'number': 117, 'unit': 'm²'}}]",Ficha técnica,117.0,m²
+53,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+54,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+55,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+56,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'struct': None, 'source': 942334329061206, 'id': '242084', 'name': 'No'}]",Otros,,
+57,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'source': 1, 'id': '2230581', 'name': 'Usado', 'struct': None}]",,,
+58,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+59,COVERED_AREA,,49 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '49 m²', 'struct': {'number': 49, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,49.0,m²
+60,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'source': 6316276763983939, 'id': None, 'name': '1', 'struct': None}]",Ficha técnica,,
+61,ROOMS,,2,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+62,TOTAL_AREA,,47 m²,FIND,6316276763983939,Superficie total,,"[{'struct': {'number': 47, 'unit': 'm²'}, 'source': 6316276763983939, 'id': None, 'name': '47 m²'}]",Ficha técnica,47.0,m²
+63,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+64,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+65,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+66,HAS_TELEPHONE_LINE,242085,Sí,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+67,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+68,BEDROOMS,,3,FIND,4709975701260268,Dormitorios,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '3'}]",Ficha técnica,,
+69,COVERED_AREA,,150 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '150 m²', 'struct': {'number': 150, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,150.0,m²
+70,FULL_BATHROOMS,,2,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+71,ROOMS,,4,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '4', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+72,TOTAL_AREA,,159 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '159 m²', 'struct': {'number': 159, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,159.0,m²
+73,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+74,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+75,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'source': 1, 'id': '2230581', 'name': 'Usado', 'struct': None}]",,,
+76,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+77,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+78,BEDROOMS,,3,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+79,COVERED_AREA,,96 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '96 m²', 'struct': {'number': 96, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,96.0,m²
+80,FULL_BATHROOMS,,2,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+81,ROOMS,,4,FIND,4709975701260268,Ambientes,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '4'}]",Ficha técnica,,
+82,TOTAL_AREA,,96 m²,FIND,4709975701260268,Superficie total,,"[{'source': 4709975701260268, 'id': None, 'name': '96 m²', 'struct': {'number': 96, 'unit': 'm²'}}]",Ficha técnica,96.0,m²
+83,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+84,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+85,BEDROOMS,,2,FIND,8334164651379012,Dormitorios,,"[{'source': 8334164651379012, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+86,COVERED_AREA,,46 m²,FIND,8334164651379012,Superficie cubierta,,"[{'id': None, 'name': '46 m²', 'struct': {'number': 46, 'unit': 'm²'}, 'source': 8334164651379012}]",Ficha técnica,46.0,m²
+87,FULL_BATHROOMS,,1,FIND,8334164651379012,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8334164651379012}]",Ficha técnica,,
+88,ROOMS,,3,FIND,8334164651379012,Ambientes,,"[{'name': '3', 'struct': None, 'source': 8334164651379012, 'id': None}]",Ficha técnica,,
+89,TOTAL_AREA,,55 m²,FIND,8334164651379012,Superficie total,,"[{'struct': {'number': 55, 'unit': 'm²'}, 'source': 8334164651379012, 'id': None, 'name': '55 m²'}]",Ficha técnica,55.0,m²
+90,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+91,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+92,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'struct': None, 'source': 1, 'id': '2230581', 'name': 'Usado'}]",Otros,,
+93,BEDROOMS,,1,FIND,7092,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 7092}]",Ficha técnica,,
+94,COVERED_AREA,,48 m²,FIND,7092,Superficie cubierta,,"[{'struct': {'number': 48, 'unit': 'm²'}, 'source': 7092, 'id': None, 'name': '48 m²'}]",Ficha técnica,48.0,m²
+95,FULL_BATHROOMS,,1,FIND,7092,Baños,,"[{'name': '1', 'struct': None, 'source': 7092, 'id': None}]",Ficha técnica,,
+96,ROOMS,,2,FIND,7092,Ambientes,,"[{'source': 7092, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+97,TOTAL_AREA,,98 m²,FIND,7092,Superficie total,,"[{'id': None, 'name': '98 m²', 'struct': {'number': 98, 'unit': 'm²'}, 'source': 7092}]",Ficha técnica,98.0,m²
+98,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+99,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+100,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+101,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,5031406389580791,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 5031406389580791}]",Comodidades y amenities,,
+102,BEDROOMS,,2,FIND,5031406389580791,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+103,COVERED_AREA,,171 m²,FIND,5031406389580791,Superficie cubierta,,"[{'id': None, 'name': '171 m²', 'struct': {'number': 171, 'unit': 'm²'}, 'source': 5031406389580791}]",Ficha técnica,171.0,m²
+104,FULL_BATHROOMS,,2,FIND,5031406389580791,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+105,ROOMS,,5,FIND,5031406389580791,Ambientes,,"[{'name': '5', 'struct': None, 'source': 5031406389580791, 'id': None}]",Ficha técnica,,
+106,TOTAL_AREA,,185 m²,FIND,5031406389580791,Superficie total,,"[{'name': '185 m²', 'struct': {'number': 185, 'unit': 'm²'}, 'source': 5031406389580791, 'id': None}]",Ficha técnica,185.0,m²
+107,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+108,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+109,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+110,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'name': 'Sí', 'struct': None, 'source': 4709975701260268, 'id': '242085'}]",Comodidades y amenities,,
+111,BEDROOMS,,2,FIND,4709975701260268,Dormitorios,,"[{'source': 4709975701260268, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+112,COVERED_AREA,,79 m²,FIND,4709975701260268,Superficie cubierta,,"[{'name': '79 m²', 'struct': {'number': 79, 'unit': 'm²'}, 'source': 4709975701260268, 'id': None}]",Ficha técnica,79.0,m²
+113,FULL_BATHROOMS,,2,FIND,4709975701260268,Baños,,"[{'source': 4709975701260268, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+114,ROOMS,,3,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+115,TOTAL_AREA,,88 m²,FIND,4709975701260268,Superficie total,,"[{'name': '88 m²', 'struct': {'number': 88, 'unit': 'm²'}, 'source': 4709975701260268, 'id': None}]",Ficha técnica,88.0,m²
+116,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'name': 'Alquiler', 'struct': None, 'source': 1, 'id': '242073'}]",Principales,,
+117,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+118,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'name': 'Usado', 'struct': None, 'source': 1, 'id': '2230581'}]",Otros,,
+119,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'source': 1, 'id': '2230581', 'name': 'Usado', 'struct': None}]",,,
+120,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'struct': None, 'source': 4709975701260268, 'id': '242084', 'name': 'No'}]",Características adicionales,,
+121,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+122,BEDROOMS,,1,FIND,4709975701260268,Dormitorios,,"[{'source': 4709975701260268, 'id': None, 'name': '1', 'struct': None}]",Ficha técnica,,
+123,COVERED_AREA,,45 m²,FIND,4709975701260268,Superficie cubierta,,"[{'name': '45 m²', 'struct': {'number': 45, 'unit': 'm²'}, 'source': 4709975701260268, 'id': None}]",Ficha técnica,45.0,m²
+124,FULL_BATHROOMS,,1,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+125,ROOMS,,2,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+126,TOTAL_AREA,,48 m²,FIND,4709975701260268,Superficie total,,"[{'source': 4709975701260268, 'id': None, 'name': '48 m²', 'struct': {'number': 48, 'unit': 'm²'}}]",Ficha técnica,48.0,m²
+127,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+128,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+129,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'source': 1, 'id': '2230581', 'name': 'Usado', 'struct': None}]",,,
+130,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,5031406389580791,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 5031406389580791}]",Comodidades y amenities,,
+131,BEDROOMS,,1,FIND,5031406389580791,Dormitorios,,"[{'name': '1', 'struct': None, 'source': 5031406389580791, 'id': None}]",Ficha técnica,,
+132,COVERED_AREA,,98 m²,FIND,5031406389580791,Superficie cubierta,,"[{'source': 5031406389580791, 'id': None, 'name': '98 m²', 'struct': {'number': 98, 'unit': 'm²'}}]",Ficha técnica,98.0,m²
+133,FULL_BATHROOMS,,2,FIND,5031406389580791,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+134,ROOMS,,2,FIND,5031406389580791,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+135,TOTAL_AREA,,107 m²,FIND,5031406389580791,Superficie total,,"[{'id': None, 'name': '107 m²', 'struct': {'number': 107, 'unit': 'm²'}, 'source': 5031406389580791}]",Ficha técnica,107.0,m²
+136,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+137,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+138,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+139,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+140,BEDROOMS,,5,FIND,4709975701260268,Dormitorios,,"[{'name': '5', 'struct': None, 'source': 4709975701260268, 'id': None}]",Ficha técnica,,
+141,COVERED_AREA,,450 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '450 m²', 'struct': {'number': 450, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,450.0,m²
+142,FULL_BATHROOMS,,6,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '6', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+143,ROOMS,,7,FIND,4709975701260268,Ambientes,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '7'}]",Ficha técnica,,
+144,TOTAL_AREA,,0 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '0 m²', 'struct': {'number': 0, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,0.0,m²
+145,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+146,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+147,ITEM_CONDITION,2230284,Nuevo,OTHERS,1,Condición del ítem,,"[{'id': '2230284', 'name': 'Nuevo', 'struct': None, 'source': 1}]",Otros,,
+148,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'struct': None, 'source': 942334329061206, 'id': '242084', 'name': 'No'}]",Otros,,
+149,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'source': 6316276763983939, 'id': None, 'name': '1', 'struct': None}]",Ficha técnica,,
+150,COVERED_AREA,,45 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '45 m²', 'struct': {'number': 45, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,45.0,m²
+151,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+152,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'name': '3', 'struct': None, 'source': 6316276763983939, 'id': None}]",Ficha técnica,,
+153,TOTAL_AREA,,47 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '47 m²', 'struct': {'unit': 'm²', 'number': 47}, 'source': 6316276763983939}]",Ficha técnica,47.0,m²
+154,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+155,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+156,ITEM_CONDITION,2230581,Usado,OTHERS,6316276763983939,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 6316276763983939}]",Otros,,
+157,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+158,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,5031406389580791,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 5031406389580791}]",Comodidades y amenities,,
+159,BEDROOMS,,2,FIND,5031406389580791,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+160,COVERED_AREA,,85 m²,FIND,5031406389580791,Superficie cubierta,,"[{'name': '85 m²', 'struct': {'number': 85, 'unit': 'm²'}, 'source': 5031406389580791, 'id': None}]",Ficha técnica,85.0,m²
+161,FULL_BATHROOMS,,2,FIND,5031406389580791,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+162,ROOMS,,3,FIND,5031406389580791,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 5031406389580791}]",Ficha técnica,,
+163,TOTAL_AREA,,91 m²,FIND,5031406389580791,Superficie total,,"[{'id': None, 'name': '91 m²', 'struct': {'unit': 'm²', 'number': 91}, 'source': 5031406389580791}]",Ficha técnica,91.0,m²
+164,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+165,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+166,HAS_TELEPHONE_LINE,242085,Sí,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'name': 'Sí', 'struct': None, 'source': 4709975701260268, 'id': '242085'}]",Características adicionales,,
+167,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+168,BEDROOMS,,3,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+169,COVERED_AREA,,149 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '149 m²', 'struct': {'number': 149, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,149.0,m²
+170,FULL_BATHROOMS,,3,FIND,4709975701260268,Baños,,"[{'name': '3', 'struct': None, 'source': 4709975701260268, 'id': None}]",Ficha técnica,,
+171,ROOMS,,4,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '4', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+172,TOTAL_AREA,,160 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '160 m²', 'struct': {'number': 160, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,160.0,m²
+173,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+174,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+175,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+176,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'struct': None, 'source': 942334329061206, 'id': '242084', 'name': 'No'}]",Otros,,
+177,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+178,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'source': 4709975701260268, 'id': '242085', 'name': 'Sí', 'struct': None}]",Comodidades y amenities,,
+179,BEDROOMS,,0,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '0', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+180,COVERED_AREA,,44 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '44 m²', 'struct': {'number': 44, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,44.0,m²
+181,FULL_BATHROOMS,,1,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+182,ROOMS,,1,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+183,TOTAL_AREA,,49 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '49 m²', 'struct': {'number': 49, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,49.0,m²
+184,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+185,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+186,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+187,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+188,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,5268846267775305,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 5268846267775305}]",Comodidades y amenities,,
+189,BEDROOMS,,2,FIND,5268846267775305,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 5268846267775305}]",Ficha técnica,,
+190,COVERED_AREA,,70 m²,FIND,5268846267775305,Superficie cubierta,,"[{'id': None, 'name': '70 m²', 'struct': {'number': 70, 'unit': 'm²'}, 'source': 5268846267775305}]",Ficha técnica,70.0,m²
+191,FULL_BATHROOMS,,1,FIND,5268846267775305,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 5268846267775305}]",Ficha técnica,,
+192,ROOMS,,3,FIND,5268846267775305,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 5268846267775305}]",Ficha técnica,,
+193,TOTAL_AREA,,0 m²,FIND,5268846267775305,Superficie total,,"[{'id': None, 'name': '0 m²', 'struct': {'number': 0, 'unit': 'm²'}, 'source': 5268846267775305}]",Ficha técnica,0.0,m²
+194,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+195,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+196,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+197,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+198,BEDROOMS,,2,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+199,COVERED_AREA,,168 m²,FIND,4709975701260268,Superficie cubierta,,"[{'source': 4709975701260268, 'id': None, 'name': '168 m²', 'struct': {'unit': 'm²', 'number': 168}}]",Ficha técnica,168.0,m²
+200,FULL_BATHROOMS,,3,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+201,ROOMS,,3,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+202,TOTAL_AREA,,168 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '168 m²', 'struct': {'number': 168, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,168.0,m²
+203,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+204,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+205,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+206,BEDROOMS,,1,FIND,7398128016960827,Dormitorios,,"[{'name': '1', 'struct': None, 'source': 7398128016960827, 'id': None}]",Ficha técnica,,
+207,COVERED_AREA,,55 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '55 m²', 'struct': {'number': 55, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,55.0,m²
+208,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+209,ROOMS,,2,FIND,7398128016960827,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 7398128016960827}]",Ficha técnica,,
+210,TOTAL_AREA,,55 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '55 m²', 'struct': {'unit': 'm²', 'number': 55}, 'source': 6316276763983939}]",Ficha técnica,55.0,m²
+211,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'name': 'Alquiler', 'struct': None, 'source': 1, 'id': '242073'}]",Principales,,
+212,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+213,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+214,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'struct': None, 'source': 1, 'id': '2230581', 'name': 'Usado'}]",,,
+215,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+216,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+217,BEDROOMS,,2,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+218,COVERED_AREA,,135 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '135 m²', 'struct': {'number': 135, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,135.0,m²
+219,FULL_BATHROOMS,,2,FIND,4709975701260268,Baños,,"[{'source': 4709975701260268, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+220,ROOMS,,3,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+221,TOTAL_AREA,,135 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '135 m²', 'struct': {'number': 135, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,135.0,m²
+222,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+223,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+224,ITEM_CONDITION,2230284,Nuevo,,1,Condición del ítem,,"[{'id': '2230284', 'name': 'Nuevo', 'struct': None, 'source': 1}]",,,
+225,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'source': 4709975701260268, 'id': '242084', 'name': 'No', 'struct': None}]",Características adicionales,,
+226,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+227,BEDROOMS,,1,FIND,4709975701260268,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+228,COVERED_AREA,,43 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '43 m²', 'struct': {'number': 43, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,43.0,m²
+229,FULL_BATHROOMS,,1,FIND,4709975701260268,Baños,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '1'}]",Ficha técnica,,
+230,ROOMS,,2,FIND,4709975701260268,Ambientes,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '2'}]",Ficha técnica,,
+231,TOTAL_AREA,,45 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '45 m²', 'struct': {'unit': 'm²', 'number': 45}, 'source': 4709975701260268}]",Ficha técnica,45.0,m²
+232,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+233,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+234,ITEM_CONDITION,2230284,Nuevo,,1,Condición del ítem,,"[{'name': 'Nuevo', 'struct': None, 'source': 1, 'id': '2230284'}]",,,
+235,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'name': 'No', 'struct': None, 'source': 4709975701260268, 'id': '242084'}]",Características adicionales,,
+236,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Comodidades y amenities,,
+237,BEDROOMS,,4,FIND,4709975701260268,Dormitorios,,"[{'name': '4', 'struct': None, 'source': 4709975701260268, 'id': None}]",Ficha técnica,,
+238,COVERED_AREA,,0 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '0 m²', 'struct': {'number': 0, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,0.0,m²
+239,FULL_BATHROOMS,,4,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '4', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+240,ROOMS,,5,FIND,4709975701260268,Ambientes,,"[{'name': '5', 'struct': None, 'source': 4709975701260268, 'id': None}]",Ficha técnica,,
+241,TOTAL_AREA,,450 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '450 m²', 'struct': {'number': 450, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,450.0,m²
+242,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'name': 'Alquiler', 'struct': None, 'source': 1, 'id': '242073'}]",Principales,,
+243,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+244,ITEM_CONDITION,2230284,Nuevo,,1,Condición del ítem,,"[{'id': '2230284', 'name': 'Nuevo', 'struct': None, 'source': 1}]",,,
+245,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'struct': None, 'source': 4709975701260268, 'id': '242084', 'name': 'No'}]",Características adicionales,,
+246,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'struct': None, 'source': 4709975701260268, 'id': '242085', 'name': 'Sí'}]",Comodidades y amenities,,
+247,BEDROOMS,,4,FIND,4709975701260268,Dormitorios,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '4'}]",Ficha técnica,,
+248,COVERED_AREA,,170 m²,FIND,4709975701260268,Superficie cubierta,,"[{'source': 4709975701260268, 'id': None, 'name': '170 m²', 'struct': {'number': 170, 'unit': 'm²'}}]",Ficha técnica,170.0,m²
+249,FULL_BATHROOMS,,4,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '4', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+250,ROOMS,,3,FIND,4709975701260268,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+251,TOTAL_AREA,,170 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '170 m²', 'struct': {'number': 170, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,170.0,m²
+252,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'struct': None, 'source': 1, 'id': '242073', 'name': 'Alquiler'}]",Principales,,
+253,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+254,BEDROOMS,,2,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+255,COVERED_AREA,,60 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '60 m²', 'struct': {'number': 60, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,60.0,m²
+256,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+257,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+258,TOTAL_AREA,,63 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '63 m²', 'struct': {'unit': 'm²', 'number': 63}, 'source': 6316276763983939}]",Ficha técnica,63.0,m²
+259,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+260,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+261,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+262,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,6316276763983939,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 6316276763983939}]",Comodidades y amenities,,
+263,BEDROOMS,,3,FIND,6316276763983939,Dormitorios,,"[{'struct': None, 'source': 6316276763983939, 'id': None, 'name': '3'}]",Ficha técnica,,
+264,COVERED_AREA,,85 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '85 m²', 'struct': {'number': 85, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,85.0,m²
+265,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+266,ROOMS,,4,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '4', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+267,TOTAL_AREA,,90 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '90 m²', 'struct': {'number': 90, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,90.0,m²
+268,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+269,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+270,ITEM_CONDITION,2230581,Usado,OTHERS,6316276763983939,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 6316276763983939}]",Otros,,
+271,BEDROOMS,,1,FIND,1505,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 1505}]",Ficha técnica,,
+272,COVERED_AREA,,42 m²,FIND,1505,Superficie cubierta,,"[{'id': None, 'name': '42 m²', 'struct': {'number': 42, 'unit': 'm²'}, 'source': 1505}]",Ficha técnica,42.0,m²
+273,FULL_BATHROOMS,,1,FIND,1505,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 1505}]",Ficha técnica,,
+274,ROOMS,,2,FIND,1505,Ambientes,,"[{'struct': None, 'source': 1505, 'id': None, 'name': '2'}]",Ficha técnica,,
+275,TOTAL_AREA,,42 m²,FIND,1505,Superficie total,,"[{'name': '42 m²', 'struct': {'number': 42, 'unit': 'm²'}, 'source': 1505, 'id': None}]",Ficha técnica,42.0,m²
+276,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+277,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+278,BEDROOMS,,2,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+279,COVERED_AREA,,60 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '60 m²', 'struct': {'unit': 'm²', 'number': 60}, 'source': 6316276763983939}]",Ficha técnica,60.0,m²
+280,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'name': '1', 'struct': None, 'source': 6316276763983939, 'id': None}]",Ficha técnica,,
+281,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+282,TOTAL_AREA,,65 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '65 m²', 'struct': {'number': 65, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,65.0,m²
+283,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+284,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+285,ITEM_CONDITION,2230581,Usado,OTHERS,6316276763983939,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 6316276763983939}]",Otros,,
+286,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+287,BEDROOMS,,2,FIND,6316276763983939,Dormitorios,,"[{'name': '2', 'struct': None, 'source': 6316276763983939, 'id': None}]",Ficha técnica,,
+288,COVERED_AREA,,49 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '49 m²', 'struct': {'number': 49, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,49.0,m²
+289,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+290,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+291,TOTAL_AREA,,49 m²,FIND,6316276763983939,Superficie total,,"[{'struct': {'number': 49, 'unit': 'm²'}, 'source': 6316276763983939, 'id': None, 'name': '49 m²'}]",Ficha técnica,49.0,m²
+292,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+293,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+294,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,4709975701260268,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 4709975701260268}]",Características adicionales,,
+295,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,4709975701260268,Aire acondicionado,,"[{'name': 'No', 'struct': None, 'source': 4709975701260268, 'id': '242084'}]",Comodidades y amenities,,
+296,BEDROOMS,,1,FIND,4709975701260268,Dormitorios,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '1'}]",Ficha técnica,,
+297,COVERED_AREA,,26 m²,FIND,4709975701260268,Superficie cubierta,,"[{'id': None, 'name': '26 m²', 'struct': {'number': 26, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,26.0,m²
+298,FULL_BATHROOMS,,1,FIND,4709975701260268,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 4709975701260268}]",Ficha técnica,,
+299,ROOMS,,1,FIND,4709975701260268,Ambientes,,"[{'struct': None, 'source': 4709975701260268, 'id': None, 'name': '1'}]",Ficha técnica,,
+300,TOTAL_AREA,,26 m²,FIND,4709975701260268,Superficie total,,"[{'id': None, 'name': '26 m²', 'struct': {'number': 26, 'unit': 'm²'}, 'source': 4709975701260268}]",Ficha técnica,26.0,m²
+301,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+302,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+303,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+304,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 942334329061206}]",Otros,,
+305,BEDROOMS,,1,FIND,1505,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 1505}]",Ficha técnica,,
+306,COVERED_AREA,,35 m²,FIND,1505,Superficie cubierta,,"[{'id': None, 'name': '35 m²', 'struct': {'number': 35, 'unit': 'm²'}, 'source': 1505}]",Ficha técnica,35.0,m²
+307,FULL_BATHROOMS,,1,FIND,1505,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 1505}]",Ficha técnica,,
+308,ROOMS,,2,FIND,1505,Ambientes,,"[{'source': 1505, 'id': None, 'name': '2', 'struct': None}]",Ficha técnica,,
+309,TOTAL_AREA,,35 m²,FIND,1505,Superficie total,,"[{'id': None, 'name': '35 m²', 'struct': {'number': 35, 'unit': 'm²'}, 'source': 1505}]",Ficha técnica,35.0,m²
+310,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'name': 'Alquiler', 'struct': None, 'source': 1, 'id': '242073'}]",Principales,,
+311,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'name': 'Departamento', 'struct': None, 'source': 1, 'id': '242062'}]",Principales,,
+312,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 942334329061206}]",Otros,,
+313,BEDROOMS,,1,FIND,7092,Dormitorios,,"[{'name': '1', 'struct': None, 'source': 7092, 'id': None}]",Ficha técnica,,
+314,COVERED_AREA,,54 m²,FIND,7092,Superficie cubierta,,"[{'source': 7092, 'id': None, 'name': '54 m²', 'struct': {'number': 54, 'unit': 'm²'}}]",Ficha técnica,54.0,m²
+315,FULL_BATHROOMS,,1,FIND,7092,Baños,,"[{'struct': None, 'source': 7092, 'id': None, 'name': '1'}]",Ficha técnica,,
+316,ROOMS,,2,FIND,7092,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 7092}]",Ficha técnica,,
+317,TOTAL_AREA,,52 m²,FIND,7092,Superficie total,,"[{'id': None, 'name': '52 m²', 'struct': {'number': 52, 'unit': 'm²'}, 'source': 7092}]",Ficha técnica,52.0,m²
+318,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'name': 'Alquiler', 'struct': None, 'source': 1, 'id': '242073'}]",Principales,,
+319,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+320,HAS_TELEPHONE_LINE,242085,Sí,CARACTERISTICAS,6316276763983939,Línea telefónica,,"[{'source': 6316276763983939, 'id': '242085', 'name': 'Sí', 'struct': None}]",Características adicionales,,
+321,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'name': '1', 'struct': None, 'source': 6316276763983939, 'id': None}]",Ficha técnica,,
+322,COVERED_AREA,,50 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '50 m²', 'struct': {'number': 50, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,50.0,m²
+323,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+324,ROOMS,,2,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+325,TOTAL_AREA,,50 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '50 m²', 'struct': {'number': 50, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,50.0,m²
+326,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+327,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+328,ITEM_CONDITION,2230581,Usado,OTHERS,6316276763983939,Condición del ítem,,"[{'name': 'Usado', 'struct': None, 'source': 6316276763983939, 'id': '2230581'}]",Otros,,
+329,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'source': 942334329061206, 'id': '242084', 'name': 'No', 'struct': None}]",Otros,,
+330,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+331,BEDROOMS,,0,FIND,6316276763983939,Dormitorios,,"[{'struct': None, 'source': 6316276763983939, 'id': None, 'name': '0'}]",Ficha técnica,,
+332,COVERED_AREA,,27 m²,FIND,6316276763983939,Superficie cubierta,,"[{'source': 6316276763983939, 'id': None, 'name': '27 m²', 'struct': {'number': 27, 'unit': 'm²'}}]",Ficha técnica,27.0,m²
+333,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'name': '1', 'struct': None, 'source': 6316276763983939, 'id': None}]",Ficha técnica,,
+334,ROOMS,,1,FIND,6316276763983939,Ambientes,,"[{'source': 6316276763983939, 'id': None, 'name': '1', 'struct': None}]",Ficha técnica,,
+335,TOTAL_AREA,,27 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '27 m²', 'struct': {'number': 27, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,27.0,m²
+336,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+337,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+338,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+339,HAS_TELEPHONE_LINE,242085,Sí,CARACTERISTICAS,7632835793739921,Línea telefónica,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 7632835793739921}]",Características adicionales,,
+340,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,7632835793739921,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 7632835793739921}]",Comodidades y amenities,,
+341,BEDROOMS,,2,FIND,7632835793739921,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 7632835793739921}]",Ficha técnica,,
+342,COVERED_AREA,,50 m²,FIND,7632835793739921,Superficie cubierta,,"[{'id': None, 'name': '50 m²', 'struct': {'number': 50, 'unit': 'm²'}, 'source': 7632835793739921}]",Ficha técnica,50.0,m²
+343,FULL_BATHROOMS,,1,FIND,7632835793739921,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 7632835793739921}]",Ficha técnica,,
+344,ROOMS,,3,FIND,7632835793739921,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 7632835793739921}]",Ficha técnica,,
+345,TOTAL_AREA,,50 m²,FIND,7632835793739921,Superficie total,,"[{'id': None, 'name': '50 m²', 'struct': {'number': 50, 'unit': 'm²'}, 'source': 7632835793739921}]",Ficha técnica,50.0,m²
+346,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+347,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+348,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+349,COVERED_AREA,,42 m²,FIND,6316276763983939,Superficie cubierta,,"[{'name': '42 m²', 'struct': {'number': 42, 'unit': 'm²'}, 'source': 6316276763983939, 'id': None}]",Ficha técnica,42.0,m²
+350,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+351,ROOMS,,2,FIND,6316276763983939,Ambientes,,"[{'struct': None, 'source': 6316276763983939, 'id': None, 'name': '2'}]",Ficha técnica,,
+352,TOTAL_AREA,,45 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '45 m²', 'struct': {'number': 45, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,45.0,m²
+353,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+354,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+355,ITEM_CONDITION,2230581,Usado,OTHERS,6316276763983939,Condición del ítem,,"[{'struct': None, 'source': 6316276763983939, 'id': '2230581', 'name': 'Usado'}]",Otros,,
+356,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,6316276763983939,Aire acondicionado,,"[{'source': 6316276763983939, 'id': '242085', 'name': 'Sí', 'struct': None}]",Comodidades y amenities,,
+357,BEDROOMS,,2,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+358,COVERED_AREA,,90 m²,FIND,7398128016960827,Superficie cubierta,,"[{'id': None, 'name': '90 m²', 'struct': {'number': 90, 'unit': 'm²'}, 'source': 7398128016960827}]",Ficha técnica,90.0,m²
+359,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+360,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+361,TOTAL_AREA,,95 m²,FIND,7398128016960827,Superficie total,,"[{'name': '95 m²', 'struct': {'unit': 'm²', 'number': 95}, 'source': 7398128016960827, 'id': None}]",Ficha técnica,95.0,m²
+362,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'source': 1, 'id': '242073', 'name': 'Alquiler', 'struct': None}]",Principales,,
+363,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+364,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+365,ITEM_CONDITION,2230284,Nuevo,,1,Condición del ítem,,"[{'name': 'Nuevo', 'struct': None, 'source': 1, 'id': '2230284'}]",,,
+366,HAS_TELEPHONE_LINE,242085,Sí,CARACTERISTICAS,8174457992840116,Línea telefónica,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 8174457992840116}]",Características adicionales,,
+367,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,8174457992840116,Aire acondicionado,,"[{'name': 'No', 'struct': None, 'source': 8174457992840116, 'id': '242084'}]",Comodidades y amenities,,
+368,BEDROOMS,,2,FIND,8174457992840116,Dormitorios,,"[{'name': '2', 'struct': None, 'source': 8174457992840116, 'id': None}]",Ficha técnica,,
+369,COVERED_AREA,,97 m²,FIND,8174457992840116,Superficie cubierta,,"[{'id': None, 'name': '97 m²', 'struct': {'unit': 'm²', 'number': 97}, 'source': 8174457992840116}]",Ficha técnica,97.0,m²
+370,FULL_BATHROOMS,,2,FIND,8174457992840116,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+371,ROOMS,,3,FIND,8174457992840116,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+372,TOTAL_AREA,,97 m²,FIND,8174457992840116,Superficie total,,"[{'id': None, 'name': '97 m²', 'struct': {'number': 97, 'unit': 'm²'}, 'source': 8174457992840116}]",Ficha técnica,97.0,m²
+373,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+374,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+375,HAS_TELEPHONE_LINE,242085,Sí,CARACTERISTICAS,6316276763983939,Línea telefónica,,"[{'source': 6316276763983939, 'id': '242085', 'name': 'Sí', 'struct': None}]",Características adicionales,,
+376,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,6316276763983939,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 6316276763983939}]",Comodidades y amenities,,
+377,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+378,COVERED_AREA,,230 m²,FIND,6316276763983939,Superficie cubierta,,"[{'struct': {'unit': 'm²', 'number': 230}, 'source': 6316276763983939, 'id': None, 'name': '230 m²'}]",Ficha técnica,230.0,m²
+379,FULL_BATHROOMS,,3,FIND,6316276763983939,Baños,,"[{'struct': None, 'source': 6316276763983939, 'id': None, 'name': '3'}]",Ficha técnica,,
+380,ROOMS,,1,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+381,TOTAL_AREA,,270 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '270 m²', 'struct': {'number': 270, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,270.0,m²
+382,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'name': 'Alquiler', 'struct': None, 'source': 1, 'id': '242073'}]",Principales,,
+383,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+384,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'struct': None, 'source': 1, 'id': '2230581', 'name': 'Usado'}]",Otros,,
+385,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'struct': None, 'source': 942334329061206, 'id': '242084', 'name': 'No'}]",Otros,,
+386,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+387,BEDROOMS,,2,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+388,COVERED_AREA,,92 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '92 m²', 'struct': {'number': 92, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,92.0,m²
+389,FULL_BATHROOMS,,2,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+390,ROOMS,,3,FIND,6316276763983939,Ambientes,,"[{'source': 6316276763983939, 'id': None, 'name': '3', 'struct': None}]",Ficha técnica,,
+391,TOTAL_AREA,,92 m²,FIND,6316276763983939,Superficie total,,"[{'id': None, 'name': '92 m²', 'struct': {'unit': 'm²', 'number': 92}, 'source': 6316276763983939}]",Ficha técnica,92.0,m²
+392,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'struct': None, 'source': 1, 'id': '242073', 'name': 'Alquiler'}]",Principales,,
+393,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+394,ITEM_CONDITION,2230284,Nuevo,,1,Condición del ítem,,"[{'name': 'Nuevo', 'struct': None, 'source': 1, 'id': '2230284'}]",,,
+395,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,8174457992840116,Línea telefónica,,"[{'struct': None, 'source': 8174457992840116, 'id': '242084', 'name': 'No'}]",Características adicionales,,
+396,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,8174457992840116,Aire acondicionado,,"[{'name': 'No', 'struct': None, 'source': 8174457992840116, 'id': '242084'}]",Comodidades y amenities,,
+397,BEDROOMS,,1,FIND,8174457992840116,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+398,COVERED_AREA,,30 m²,FIND,8174457992840116,Superficie cubierta,,"[{'id': None, 'name': '30 m²', 'struct': {'unit': 'm²', 'number': 30}, 'source': 8174457992840116}]",Ficha técnica,30.0,m²
+399,FULL_BATHROOMS,,1,FIND,8174457992840116,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+400,ROOMS,,1,FIND,8174457992840116,Ambientes,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+401,TOTAL_AREA,,32 m²,FIND,8174457992840116,Superficie total,,"[{'id': None, 'name': '32 m²', 'struct': {'number': 32, 'unit': 'm²'}, 'source': 8174457992840116}]",Ficha técnica,32.0,m²
+402,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+403,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+404,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,8174457992840116,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 8174457992840116}]",Características adicionales,,
+405,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,8174457992840116,Aire acondicionado,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 8174457992840116}]",Comodidades y amenities,,
+406,BEDROOMS,,1,FIND,8174457992840116,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+407,COVERED_AREA,,27 m²,FIND,8174457992840116,Superficie cubierta,,"[{'id': None, 'name': '27 m²', 'struct': {'unit': 'm²', 'number': 27}, 'source': 8174457992840116}]",Ficha técnica,27.0,m²
+408,FULL_BATHROOMS,,1,FIND,8174457992840116,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+409,ROOMS,,1,FIND,8174457992840116,Ambientes,,"[{'id': None, 'name': '1', 'struct': None, 'source': 8174457992840116}]",Ficha técnica,,
+410,TOTAL_AREA,,27 m²,FIND,8174457992840116,Superficie total,,"[{'id': None, 'name': '27 m²', 'struct': {'number': 27, 'unit': 'm²'}, 'source': 8174457992840116}]",Ficha técnica,27.0,m²
+411,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+412,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'source': 1, 'id': '242062', 'name': 'Departamento', 'struct': None}]",Principales,,
+413,ITEM_CONDITION,2230284,Nuevo,OTHERS,1,Condición del ítem,,"[{'struct': None, 'source': 1, 'id': '2230284', 'name': 'Nuevo'}]",Otros,,
+414,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'source': 942334329061206, 'id': '242084', 'name': 'No', 'struct': None}]",Otros,,
+415,BEDROOMS,,1,FIND,7092,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 7092}]",Ficha técnica,,
+416,COVERED_AREA,,36 m²,FIND,7092,Superficie cubierta,,"[{'name': '36 m²', 'struct': {'unit': 'm²', 'number': 36}, 'source': 7092, 'id': None}]",Ficha técnica,36.0,m²
+417,FULL_BATHROOMS,,1,FIND,7092,Baños,,"[{'struct': None, 'source': 7092, 'id': None, 'name': '1'}]",Ficha técnica,,
+418,ROOMS,,1,FIND,7092,Ambientes,,"[{'struct': None, 'source': 7092, 'id': None, 'name': '1'}]",Ficha técnica,,
+419,TOTAL_AREA,,36 m²,FIND,7092,Superficie total,,"[{'source': 7092, 'id': None, 'name': '36 m²', 'struct': {'number': 36, 'unit': 'm²'}}]",Ficha técnica,36.0,m²
+420,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+421,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+422,ITEM_CONDITION,2230581,Usado,,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",,,
+423,BEDROOMS,,1,FIND,6316276763983939,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+424,COVERED_AREA,,30 m²,FIND,6316276763983939,Superficie cubierta,,"[{'id': None, 'name': '30 m²', 'struct': {'number': 30, 'unit': 'm²'}, 'source': 6316276763983939}]",Ficha técnica,30.0,m²
+425,FULL_BATHROOMS,,1,FIND,6316276763983939,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+426,ROOMS,,2,FIND,6316276763983939,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 6316276763983939}]",Ficha técnica,,
+427,TOTAL_AREA,,30 m²,FIND,6316276763983939,Superficie total,,"[{'source': 6316276763983939, 'id': None, 'name': '30 m²', 'struct': {'number': 30, 'unit': 'm²'}}]",Ficha técnica,30.0,m²
+428,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+429,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+430,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,1572,Línea telefónica,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 1572}]",Características adicionales,,
+431,HAS_AIR_CONDITIONING,242084,No,COMOYAMEN,1572,Aire acondicionado,,"[{'name': 'No', 'struct': None, 'source': 1572, 'id': '242084'}]",Comodidades y amenities,,
+432,BEDROOMS,,1,FIND,1505,Dormitorios,,"[{'id': None, 'name': '1', 'struct': None, 'source': 1505}]",Ficha técnica,,
+433,COVERED_AREA,,30 m²,FIND,1505,Superficie cubierta,,"[{'source': 1505, 'id': None, 'name': '30 m²', 'struct': {'number': 30, 'unit': 'm²'}}]",Ficha técnica,30.0,m²
+434,FULL_BATHROOMS,,1,FIND,1505,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 1505}]",Ficha técnica,,
+435,ROOMS,,2,FIND,1505,Ambientes,,"[{'id': None, 'name': '2', 'struct': None, 'source': 1505}]",Ficha técnica,,
+436,TOTAL_AREA,,30 m²,FIND,1505,Superficie total,,"[{'source': 1505, 'id': None, 'name': '30 m²', 'struct': {'number': 30, 'unit': 'm²'}}]",Ficha técnica,30.0,m²
+437,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'struct': None, 'source': 1, 'id': '242073', 'name': 'Alquiler'}]",Principales,,
+438,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+439,WITH_VIRTUAL_TOUR,242084,No,OTHERS,1572,Tour virtual,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 1572}]",Otros,,
+440,HAS_TELEPHONE_LINE,242084,No,CARACTERISTICAS,1572,Línea telefónica,,"[{'struct': None, 'source': 1572, 'id': '242084', 'name': 'No'}]",Características adicionales,,
+441,HAS_AIR_CONDITIONING,242085,Sí,COMOYAMEN,1572,Aire acondicionado,,"[{'id': '242085', 'name': 'Sí', 'struct': None, 'source': 1572}]",Comodidades y amenities,,
+442,BEDROOMS,,0,FIND,7092,Dormitorios,,"[{'id': None, 'name': '0', 'struct': None, 'source': 7092}]",Ficha técnica,,
+443,COVERED_AREA,,60 m²,FIND,7092,Superficie cubierta,,"[{'id': None, 'name': '60 m²', 'struct': {'unit': 'm²', 'number': 60}, 'source': 7092}]",Ficha técnica,60.0,m²
+444,FULL_BATHROOMS,,1,FIND,7092,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 7092}]",Ficha técnica,,
+445,ROOMS,,3,FIND,7092,Ambientes,,"[{'id': None, 'name': '3', 'struct': None, 'source': 7092}]",Ficha técnica,,
+446,TOTAL_AREA,,65 m²,FIND,7092,Superficie total,,"[{'name': '65 m²', 'struct': {'number': 65, 'unit': 'm²'}, 'source': 7092, 'id': None}]",Ficha técnica,65.0,m²
+447,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+448,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'struct': None, 'source': 1, 'id': '242062', 'name': 'Departamento'}]",Principales,,
+449,ITEM_CONDITION,2230581,Usado,OTHERS,1,Condición del ítem,,"[{'id': '2230581', 'name': 'Usado', 'struct': None, 'source': 1}]",Otros,,
+450,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'id': '242084', 'name': 'No', 'struct': None, 'source': 942334329061206}]",Otros,,
+451,BEDROOMS,,1,FIND,7092,Dormitorios,,"[{'struct': None, 'source': 7092, 'id': None, 'name': '1'}]",Ficha técnica,,
+452,COVERED_AREA,,20 m²,FIND,7092,Superficie cubierta,,"[{'struct': {'number': 20, 'unit': 'm²'}, 'source': 7092, 'id': None, 'name': '20 m²'}]",Ficha técnica,20.0,m²
+453,FULL_BATHROOMS,,1,FIND,7092,Baños,,"[{'id': None, 'name': '1', 'struct': None, 'source': 7092}]",Ficha técnica,,
+454,ROOMS,,1,FIND,7092,Ambientes,,"[{'id': None, 'name': '1', 'struct': None, 'source': 7092}]",Ficha técnica,,
+455,TOTAL_AREA,,20 m²,FIND,7092,Superficie total,,"[{'struct': {'number': 20, 'unit': 'm²'}, 'source': 7092, 'id': None, 'name': '20 m²'}]",Ficha técnica,20.0,m²
+456,OPERATION,242073,Alquiler,MAIN,1,Operación,,"[{'id': '242073', 'name': 'Alquiler', 'struct': None, 'source': 1}]",Principales,,
+457,PROPERTY_TYPE,242062,Departamento,MAIN,1,Inmueble,,"[{'id': '242062', 'name': 'Departamento', 'struct': None, 'source': 1}]",Principales,,
+458,WITH_VIRTUAL_TOUR,242084,No,OTHERS,942334329061206,Tour virtual,,"[{'source': 942334329061206, 'id': '242084', 'name': 'No', 'struct': None}]",Otros,,
