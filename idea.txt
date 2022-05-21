@@ -28,3 +28,12 @@ Despues en cada categoria habrá unos parametros de regresión distinto.
 "Keep It Simple Stupid"
 EDA>Wranglin>EDA>Wranglin>iteración
 4) Modelo predictivo
+
+
+
+
+Se pueden agregar datos de otras fuentes públicas:
+
+https://data.buenosaires.gob.ar/dataset/?q=mapa
+https://data.buenosaires.gob.ar/dataset/?q=mapa
+https://datosabiertos.aeroterra.com/
